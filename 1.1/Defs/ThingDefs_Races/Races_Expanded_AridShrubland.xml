@@ -551,7 +551,7 @@
         <Desert>0.3</Desert>
         <ExtremeDesert>0.1</ExtremeDesert>
       </wildBiomes>
-      <meatLabel>horsemeat</meatLabel>
+      <useMeatFrom>Horse</useMeatFrom>
       <lifeExpectancy>20</lifeExpectancy>
       <lifeStageAges>
         <li>
@@ -708,7 +708,7 @@
       <wildness>0.65</wildness>
       <trainability>Simple</trainability>
       <packAnimal>true</packAnimal>
-      <meatLabel>beef</meatLabel>
+      <useMeatFrom>Cow</useMeatFrom>
       <gestationPeriodDays>20</gestationPeriodDays>
       <lifeExpectancy>22</lifeExpectancy>
       <manhunterOnDamageChance>0.2</manhunterOnDamageChance>
