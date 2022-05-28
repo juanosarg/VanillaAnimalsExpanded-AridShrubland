@@ -640,7 +640,7 @@
 	<ThingDef ParentName="AnimalThingBase">
 		<defName>AEXP_Wildebeest</defName>
 		<label>wildebeest</label>
-		<description>Also called Gnu, this wild cow earned it's name with it's menacing horns, pointed beard and large head. These animals are known from their migrations and the size of their herds./n/nDue to it's wildness, it produces milk at much slower rate than a standard cow.</description>
+		<description>Also called Gnu, this wild cow earned it's name with it's menacing horns, pointed beard and large head. These animals are known from their migrations and the size of their herds.\n\nDue to its wildness, it produces milk at much slower rate than a standard cow.</description>
 		<statBases>
 			<MoveSpeed>3.4</MoveSpeed>
 			<ComfyTemperatureMin>-10</ComfyTemperatureMin>
